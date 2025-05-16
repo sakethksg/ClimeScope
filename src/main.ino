@@ -3,7 +3,7 @@
 
 #define DHTPIN 4
 #define DHTTYPE DHT11
-#define MQ135PIN 34  // Analog input pin for MQ-135 sensor
+#define MQ135PIN 34  
 
 DHT dht(DHTPIN, DHTTYPE);
 
